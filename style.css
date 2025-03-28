@@ -15,7 +15,7 @@ body {
 }
 
 div {
-	background-color: teal;
+    background-color: teal;
     text-align: center;
 }
 
@@ -24,8 +24,8 @@ h2 {
 }
 
 ul {
-	color: purple;
-	background-color: rgb(150, 150, 150);
+    color: purple;
+    background-color: rgb(150, 150, 150);
     text-decoration: underline;
 }
 
